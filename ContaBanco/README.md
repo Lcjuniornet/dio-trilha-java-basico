@@ -16,3 +16,6 @@ Criar uma aplicação de terminal que solicita informações bancárias do usuá
 
 ## 🏗️ Estrutura do Projeto
 
+ContaBanco/
+├── ContaTerminal.java
+└── README.md
